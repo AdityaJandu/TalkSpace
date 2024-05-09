@@ -40,8 +40,8 @@ class ProfileDialog extends StatelessWidget {
               ),
               //User Name.
               Positioned(
-                left: mq.width * .045,
-                top: mq.width * .045,
+                left: mq.width * .05,
+                top: mq.width * .048,
                 width: mq.width * .45,
                 child: Text(
                   user.Name,
@@ -53,7 +53,7 @@ class ProfileDialog extends StatelessWidget {
               ),
 
               Positioned(
-                right: 8,
+                right: 9,
                 top: 8,
                 child: MaterialButton(
                   onPressed: () {
@@ -67,7 +67,7 @@ class ProfileDialog extends StatelessWidget {
                   shape: CircleBorder(),
                   child: Icon(
                     Icons.info_outline_rounded,
-                    color: Colors.blue,
+                    color: Colors.blueAccent,
                     size: 30,
                   ),
                 ),

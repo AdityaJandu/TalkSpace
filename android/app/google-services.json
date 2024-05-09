@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "826725876144",
+    "project_id": "talkspace-802e8",
+    "storage_bucket": "talkspace-802e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826725876144:android:5b43d1dde9f3a01cb29675",
+        "android_client_info": {
+          "package_name": "com.example.talk_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826725876144-qkrimkou25odp661p8kciem5g2aj8lom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talk_space",
+            "certificate_hash": "6a9e281df5f4bc7d8be63a6c815de563064bfad9"
+          }
+        },
+        {
+          "client_id": "826725876144-1opb9bfegp65s8elgm5a48fgl3trl39f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEU6s9661fj8_0KIN1bmrq4jJWi-idoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826725876144-1opb9bfegp65s8elgm5a48fgl3trl39f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826725876144-c7phqmi9h8r5h0cvmf88c2550cmeaghv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkSpace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

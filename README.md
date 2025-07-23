@@ -41,8 +41,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/talkspace.git
-   cd talkspace
+   git clone https://github.com/AdityaJandu/TalkSpace.git
+   cd TalkSpace
 
 2. **Add Firebase configuration**
    ```
